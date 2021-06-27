@@ -1,7 +1,7 @@
 # ctTranToFoam
 python script to extract Sutherland coefficient from Cantera cti mechanism, followed by converting to Openfoam transport data format.
 
-## Usage (assuming env name in conda = 'cantera')
+## Usage
 ```bash
 python ctTransToOF.py -> read cti and export .dat file (OF format) from and in mechanism folder
 ```
